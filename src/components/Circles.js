@@ -5,7 +5,7 @@ class Circles extends React.Component {
 
   constructor(props) {
     super(props);
-    
+     
     this.state = {
       circles: [
         { color: 'red' },

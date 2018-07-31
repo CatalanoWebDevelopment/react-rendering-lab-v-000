@@ -27,4 +27,4 @@ ReactDOM.render(
     </div>
   </div>,
   document.getElementById('global')
-);
+); 
